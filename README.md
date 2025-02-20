@@ -9,17 +9,17 @@ styles.css: The stylesheet that defines the visual appearance of the website, in
 
 Images: A collection of images used throughout the website, including course covers and student profiles.
 
-## Features
-  # Responsive Design:
+# Features
+  ## Responsive Design:
   The website is designed to be mobile-friendly and adapts to various screen sizes.
   
-  # Course Listings: 
+  ## Course Listings: 
   Users can browse through a variety of courses with detailed descriptions and pricing.
   
-# Student Testimonials: 
+  ## Student Testimonials: 
 The platform showcases feedback from successful students to inspire new learners.
 
-# Frequently Asked Questions: 
+  ## Frequently Asked Questions: 
 A dedicated section to address common queries related to the courses and platform.
 
-[Live link](https://maheshreddy31.github.io/E-Learning-Platform-Website/)
+[Live link] (https://maheshreddy31.github.io/E-Learning-Platform-Website/)
